@@ -1,0 +1,933 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ksa.-" tvg-logo="http://kamiselaluada.com/img/ksa.jpg", JANGAN LUPA JOIN DITELEGRAM
+http://kamiselaluada.com/welcome.ts?0
+#EXTINF:-1 tvg-id="ksa.-" tvg-logo="http://kamiselaluada.com/img/ksa.jpg", t.me/kamiselaluada
+http://kamiselaluada.com/welcome.ts?1
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/pKNOYgi-N6SkumWoEE6Wdjci2PM=/1660x920/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/7676/piala-menpora-2021-cover-59acba.jpg" group-title="LIVE MATCH", (25/04/21 20.30 WIB) PERSIB Bandung vs PERSIJA Jakarta
+http://kamiselaluada.com/hi.ts?2
+
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="FTA", ZQ Drama
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="FTA", ZQ Sport
+http://iptv.zqstream.com/zqsport-gen/video.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="FTA", RCTI
+https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="FTA", MNCTV 
+https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="FTA", GTV
+https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="FTA", iNEWS
+https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nasatv.png" group-title="FTA",NASA TV 
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="FTA",Magna TV 
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
+#EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="FTA",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="FTA",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cnnindo.png" group-title="FTA",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cnbcindonesia.png" group-title="FTA",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="FTA",METRO TV
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="FTA",TVONE
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="FTA",BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bsworld.png" group-title="FTA",BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jakartaglobenews.png" group-title="FTA",JAKARTA GLOBE NEWS
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/rri.png" group-title="FTA", RRI NET
+http://36.89.47.217:11935/rrinet/live/chunklist_kamiselaluada.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jitv.png" group-title="FTA", JITV
+http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ntv.png" group-title="FTA",Nusantara TV
+https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="FTA", JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cna.png" group-title="FTA", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kbsworld.png" group-title="FTA", KBS World
+http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="FTA",ARIRANG
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-id="ksa.arirang" tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="FTA",ARIRANG 2
+http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="VIDIO",SCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1619186401~acl=/hls-p/ingest_204_*/*~hmac=6a4c531eca8d9992f28018bf302da1fd3caf13b36fe8fae5cc65ef4b2038ec1e/hls-p/ingest_204_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="VIDIO",INDOSIAR
+https://etslive-2-vidio-com.akamaized.net/exp=1619186410~acl=/hls-p/ingest_205_*/*~hmac=1ad72f41484e4b9844304482a6e1adb3c97fc3a534a26cff051e986489537d4a/hls-p/ingest_205_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ochannel.png" group-title="VIDIO",O Channel
+https://etslive-2-vidio-com.akamaized.net/exp=1619186370~acl=/hls-p/ingest_206_*/*~hmac=7e578adb90c22de77233a02a2710d99aefe10437c9b4369f45072137ccf12499/hls-p/ingest_206_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ajwatv.png" group-title="VIDIO",AJWA TV
+https://etslive-2-vidio-com.akamaized.net/exp=1619186420~acl=/hls-p/ingest_7464_*/*~hmac=d4579e9d4a95b1f53131e37b935e0a64b0e08bd0cea56697e5e9e6f44ae253b9/hls-p/ingest_7464_720p/index.m3u8
+#EXTINF:-1 tvg-id="ksa.alqurantv" tvg-logo="http://kamiselaluada.com/img/mekkah.png" group-title="VIDIO",AlQuran Kareem
+https://etslive-2-vidio-com.akamaized.net/exp=1619186421~acl=/hls-p/ingest_6852_*/*~hmac=0bc86cb8334b0896ecdcbf015cc83071e3a553ba8495cb4a318916f4643d9641/hls-p/ingest_6852_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="VIDIO",Kompas TV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_874_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="VIDIO",Berita Satu
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6165_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="VIDIO",Metro TV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_777_720p/index.m3u8
+#EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="VIDIO",Trans TV
+https://etslive-2-vidio-com.akamaized.net/exp=1619186421~acl=/hls-p/ingest_733_*/*~hmac=fd797fd4218248d2ffa55a5cefb7acf044219ffddeb5f6ce5c67f3bde1bd96a0/hls-p/ingest_733_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="VIDIO",RCTI
+https://etslive-2-vidio-com.akamaized.net/exp=1619186251~acl=/hls-p/ingest_665_*/*~hmac=af7d00b2c06dcd07bdfb4f283490150e1db52dca49c8ca74a0b16079edd6f3f2/hls-p/ingest_665_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="VIDIO",Trans 7
+https://etslive-2-vidio-com.akamaized.net/exp=1619186423~acl=/hls-p/ingest_734_*/*~hmac=b9086bf5b5bf3ee7071d83fd014d7023d1c0ae7d9e9446cd63d1d3d822095b79/hls-p/ingest_734_720p/index.m3u8
+#EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="VIDIO",MNCTV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_870_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="VIDIO",JakTV
+https://etslive-2-vidio-com.akamaized.net/exp=1619186370~acl=/hls-p/ingest_5415_*/*~hmac=3eaeb4003339a7994566bb511ffb3a5e5d524723bb8fe848a018a4365005aa90/hls-p/ingest_5415_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="VIDIO",GTV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_778_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="VIDIO",NET.
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_875_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="VIDIO",iNews
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_5409_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/oshop.png" group-title="VIDIO",O SHop
+https://etslive-2-vidio-com.akamaized.net/exp=1619186424~acl=/hls-p/ingest_6166_*/*~hmac=278929f2a1b34f4f9ad407d05a3e78417bef057ab78009178119e5ddda774089/hls-p/ingest_6166_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="VIDIO",TVRI
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6441_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="VIDIO",MYTV
+https://etslive-2-vidio-com.akamaized.net/exp=1619186425~acl=/hls-p/ingest_6711_*/*~hmac=a572ecd8d4ab54039a6048c7ffd26485104b63aeaf0758fa200f5c6703af094c/hls-p/ingest_6711_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mola.png" group-title="VIDIO", Mola Sports Free
+https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="VIDIO",Magna TV
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
+#EXTINF:-1 tvg-id="nusantaratv" tvg-logo="http://kamiselaluada.com/img/ntv.png" group-title="VIDIO",Nusantara TV
+https://etslive-2-vidio-com.akamaized.net/exp=1619186425~acl=/hls-p/ingest_7432_*/*~hmac=25a3651624f8072851a5a2321336bdedb7c79ba8ba6b2d46564b09d276cc9d79/hls-p/ingest_7432_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="VIDIO",DAAI TV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6482_720p/index.m3u8
+#EXTINF:-1 tvg-id="dwtv" tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="VIDIO",DW English
+https://etslive-2-vidio-com.akamaized.net/exp=1619186369~acl=/hls-p/ingest_5075_*/*~hmac=1124a58510dbb2ce7f7dfa1dc4a56d37f71cf4c122e6821e02d51754b49218e8/hls-p/ingest_5075_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvedukasi.png" group-title="VIDIO",TV Edukasi
+https://etslive-2-vidio-com.akamaized.net/exp=1619186427~acl=/hls-p/ingest_6838_*/*~hmac=a9aa3d97913e25647d9913d3dcc707fa7969fd02fd9418c50d4b65c79f891ae6/hls-p/ingest_6838_720p/index.m3u8
+#EXTINF:-1 tvg-id="rtv" tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="VIDIO",RTV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_1561_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/seatoday.png" group-title="VIDIO", SEA TODAY
+https://etslive-2-vidio-com.akamaized.net/exp=1619186427~acl=/hls-p/ingest_7687_*/*~hmac=c85b0b2dd467b5dc6528bb3d6af164f1c405020e4070ca2f5e4e65e3ad105b80/hls-p/ingest_7687_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/musica.png" group-title="VIDIO",MUSICA
+https://etslive-2-vidio-com.akamaized.net/exp=1619136323~acl=/hls-p/ingest_7619_*/*~hmac=b65c749490b8e9df265ca6a6cec669f6dedd7a90ccda45c443ec7e13027a7ace/hls-p/ingest_7619_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/genfm.png" group-title="VIDIO",Gen FM Jakarta
+https://etslive-2-vidio-com.akamaized.net/exp=1619136323~acl=/hls-p/ingest_7443_*/*~hmac=4acc9fec2519b65797a869b5435ae595aa0cffafbd3e0de94517be6aec7deb35/hls-p/ingest_7443_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/prambors.png" group-title="VIDIO",Prambors On Air
+https://etslive-2-vidio-com.akamaized.net/exp=1619136324~acl=/hls-p/ingest_7004_*/*~hmac=5a9ba99bba1d82625d8cff638e33a2afb1a69c6e1e96938979c101b973e4f8a9/hls-p/ingest_7004_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/jakfm.png" group-title="VIDIO",Jak FM
+https://etslive-2-vidio-com.akamaized.net/exp=1619136325~acl=/hls-p/ingest_7449_*/*~hmac=dbdee4d45677748db508283521635f1afd79879a24ff6850f50e1bc04e81ad8b/hls-p/ingest_7449_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/ardanfm.png" group-title="VIDIO",Ardan Radio
+https://etslive-2-vidio-com.akamaized.net/exp=1619136325~acl=/hls-p/ingest_7184_*/*~hmac=568e6c75124a084b084ea7848c1d9225b2b59615cccac39027b38eb0e295e580/hls-p/ingest_7184_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/kisfm.png" group-title="VIDIO",Kis FM
+https://etslive-2-vidio-com.akamaized.net/exp=1619136326~acl=/hls-p/ingest_7445_*/*~hmac=4bec54c7963cc9b88c63d0133e79f11a848a695610f94d66405e29d19ca91ad2/hls-p/ingest_7445_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/hardrockfm.png" group-title="VIDIO",Hard Rock FM
+https://etslive-2-vidio-com.akamaized.net/exp=1619136327~acl=/hls-p/ingest_7053_*/*~hmac=8a6ed249765016e2cab2ac28de54982314f27516c991196ae2251738cc815cc5/hls-p/ingest_7053_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/mustangfm.png" group-title="VIDIO",Mustang FM
+https://etslive-2-vidio-com.akamaized.net/exp=1619136327~acl=/hls-p/ingest_7447_*/*~hmac=2eda90d5ad8606356cdaa3343029335c711cf833413e58c8c0513bbb148fc09e/hls-p/ingest_7447_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/deltafm.png" group-title="VIDIO",Delta FM
+https://etslive-2-vidio-com.akamaized.net/exp=1619136328~acl=/hls-p/ingest_7092_*/*~hmac=f8792e8cf4530613ef2ae028bb82d70c914ac4b00fd8c796dafaae81b2c6f57c/hls-p/ingest_7092_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/traxfm.png" group-title="VIDIO",Trax FM
+https://etslive-2-vidio-com.akamaized.net/exp=1619136329~acl=/hls-p/ingest_7055_*/*~hmac=3e41badd153b3ce55fd9ef07bdb5a8e64d05ad647886169ebb0dced5be65e6e5/hls-p/ingest_7055_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/mostradio.png" group-title="VIDIO",Most FM
+https://etslive-2-vidio-com.akamaized.net/exp=1619136330~acl=/hls-p/ingest_7450_*/*~hmac=0c1cf31ba153c4ea1ff6f832abc73d8d8f7549e28977be6a94c713792a810dcf/hls-p/ingest_7450_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/cosmopolitanfm.png" group-title="VIDIO",Cosmopolitan FM
+https://etslive-2-vidio-com.akamaized.net/exp=1619136330~acl=/hls-p/ingest_7056_*/*~hmac=2a1da1e835e0c1b550fbb53483b962302ed8ae97d938d3ecfc688d6a349d2b79/hls-p/ingest_7056_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/hotfm.png" group-title="VIDIO",Hot FM
+https://etslive-2-vidio-com.akamaized.net/exp=1619136331~acl=/hls-p/ingest_7448_*/*~hmac=e1ef8153bbb0766971fb4160cf8c30d2f351d05d123914aa1a9cbcc14bb43611/hls-p/ingest_7448_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/gajahmadafm.png" group-title="VIDIO",GAJAHMADA
+https://etslive-2-vidio-com.akamaized.net/exp=1619136332~acl=/hls-p/ingest_7284_*/*~hmac=2f17643e6b1939e35bec098dda1b6f19242212f982c74477fcd42fef944fe5a4/hls-p/ingest_7284_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/bahanafm.png" group-title="VIDIO",Bahana FM
+https://etslive-2-vidio-com.akamaized.net/exp=1619136332~acl=/hls-p/ingest_7091_*/*~hmac=26388efbb765e4f33f33c82ef6073c726a9e5d7beb1a8dcf2fb8e3763c45f50c/hls-p/ingest_7091_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/iradiofm.png" group-title="VIDIO",i-Radio
+https://etslive-2-vidio-com.akamaized.net/exp=1619136333~acl=/hls-p/ingest_7057_*/*~hmac=b2133a55d1ed6ab1f10aa4bb64af4fbf6c11c574317ee5d28d7469e8683f9ea3/hls-p/ingest_7057_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/geronimo.png" group-title="VIDIO",Geronimo
+https://etslive-2-vidio-com.akamaized.net/exp=1619136334~acl=/hls-p/ingest_7216_*/*~hmac=e1a5987c5dadc792565fea0b06a8d154ba565450c5c333a311eccc2d804ab631/hls-p/ingest_7216_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/dahliafm.png" group-title="VIDIO",Dahlia FM
+https://etslive-2-vidio-com.akamaized.net/exp=1619136334~acl=/hls-p/ingest_7242_*/*~hmac=0aa02dc9efd041dc3e8c39a1948a1f7b72527db1a7d8f2108c555135f6397aa4/hls-p/ingest_7242_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/bravafm.png" group-title="VIDIO",Brava Radio
+https://etslive-2-vidio-com.akamaized.net/exp=1619136335~acl=/hls-p/ingest_7054_*/*~hmac=de72c38f302097fdbe33b968070fa1791d9d7cee0037555f8bd9e01ac110a766/hls-p/ingest_7054_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/femalefm.png" group-title="VIDIO",Female FM
+https://etslive-2-vidio-com.akamaized.net/exp=1619136336~acl=/hls-p/ingest_7130_*/*~hmac=36f4ee4d0fa581c9002ae08779dcb5d7408b54da4e1bc2f8d9fe3038b1d28bc1/hls-p/ingest_7130_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/elshinta90fm.png" group-title="VIDIO",Elshinta 90 FM
+https://etslive-2-vidio-com.akamaized.net/exp=1619136336~acl=/hls-p/ingest_7166_*/*~hmac=3ca8f8c1768540087a51d6dff789033e7ee4fa5502d538ca81300000a4eeae39/hls-p/ingest_7166_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/mgtradio.png" group-title="VIDIO",MGTRADIO
+https://etslive-2-vidio-com.akamaized.net/exp=1619136337~acl=/hls-p/ingest_7188_*/*~hmac=48e535a10835d66b5e34c8eeb7fb5d5236c7cb5a726d3eec26806dcfeab4f2e0/hls-p/ingest_7188_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/swaragamafm.png" group-title="VIDIO",SWARAGAMA FM Jogja !
+https://etslive-2-vidio-com.akamaized.net/exp=1619136338~acl=/hls-p/ingest_7248_*/*~hmac=8a2ee126f36a46df1c50677337de45e9d9fbbddf08500dd7fed140dc43a42abe/hls-p/ingest_7248_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/elganggafm.png" group-title="VIDIO",ELGANGGA
+https://etslive-2-vidio-com.akamaized.net/exp=1619136338~acl=/hls-p/ingest_7169_*/*~hmac=57be97a6388c6dadc167ca5039574c87031ed16919d7ef244ac7dd2a41139ff9/hls-p/ingest_7169_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/cakrafm.png" group-title="VIDIO",Radio Cakra
+https://etslive-2-vidio-com.akamaized.net/exp=1619136339~acl=/hls-p/ingest_7297_*/*~hmac=514f4eea0a876810bcbcb2b90fa441d91b6d69fd42344b14b36bcdb442a50c81/hls-p/ingest_7297_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/elmitrafm.png" group-title="VIDIO",ELMITRA
+https://etslive-2-vidio-com.akamaized.net/exp=1619136340~acl=/hls-p/ingest_7170_*/*~hmac=cf840624212eea67a18c321722039358c8dd322f66d12226aee490a910a64953/hls-p/ingest_7170_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/swarasemarang.png" group-title="VIDIO",SWARA SEMARANG
+https://etslive-2-vidio-com.akamaized.net/exp=1619136340~acl=/hls-p/ingest_7283_*/*~hmac=66b2e633c1e32ffa129b546d1a8745b37ffe93173aed787e72ed40d6d1e9be92/hls-p/ingest_7283_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/sushifm.png" group-title="VIDIO",Sushi Radio
+https://etslive-2-vidio-com.akamaized.net/exp=1619136341~acl=/hls-p/ingest_7218_*/*~hmac=8c9b154b15584c6fba04f19788d596680260283df71a315df77a0b7543042083/hls-p/ingest_7218_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/imeldafm.png" group-title="VIDIO",Imelda FM
+https://etslive-2-vidio-com.akamaized.net/exp=1619136342~acl=/hls-p/ingest_7281_*/*~hmac=d448779d0cd98fdb888d7cb82d8ba5a0be5f0ba7d08adf1c6a0a6ff6fe99a6cb/hls-p/ingest_7281_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/ramafm.png" group-title="VIDIO",Rama FM
+https://etslive-2-vidio-com.akamaized.net/exp=1619136343~acl=/hls-p/ingest_7684_*/*~hmac=955feff62dd3c49cff655808023283be121cb62b9d08b9403777db002fedb068/hls-p/ingest_7684_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/paramudafm.png" group-title="VIDIO",Paramuda FM
+https://etslive-2-vidio-com.akamaized.net/exp=1619136343~acl=/hls-p/ingest_7685_*/*~hmac=2422644fd7114f7c5d6255e53a5be891cfcffc068b27685a6d63682863d3da1a/hls-p/ingest_7685_480p/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ruangterampil.png" group-title="Lokal", Ruang Trampil
+https://cdn11jtedge.useetv.com/joss/133/useeinfo/chunklist_w1426538193_b1344100_sleng.m3u8?enc=2fDKVy8IvjPd5rQhKpyZFQ&uid=&exp=1619193617
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useephoto.png" group-title="Lokal", Usee Photo
+https://cdn11jtedge.useetv.com/joss/133/useephoto/chunklist_w489489385_b1344100_sleng.m3u8?enc=lcHQBT8nB0TUXZ1KRQfctw&uid=&exp=1619193618
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useeprime.png" group-title="Lokal", UseePrime
+https://cdn11jtedge.useetv.com/joss/133/useeprime/chunklist_w1837078628_b894100_sleng.m3u8?enc=hbIkZgAQ2HOjL-viiIbcJg&uid=&exp=1619195602
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal", TVRI
+https://cdn11jtedge.useetv.com/joss/133/tvri/chunklist_w549951747_b1004100_sleng.m3u8?enc=AuQBeKNzJpjpfBoaOPRzkA&uid=&exp=1619193619
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jitv.png" group-title="Lokal", JITV
+https://cdn11jtedge.useetv.com/joss/134/bumpergangguan/chunklist_w876973726_b894100_sleng.m3u8?enc=oG9XLCnEZ4w8zTWH2MOoQw&uid=&exp=1619193620
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal", Kompas TV
+https://cdn11jtedge.useetv.com/joss/133/kompastv/chunklist_w951610237_b684100_sleng.m3u8?enc=hlM4eGpKuMUFFhrVotN9IQ&uid=&exp=1619195604
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal", Net.
+https://cdn11jtedge.useetv.com/joss/133/bumperslate/chunklist_w136815892_b894100_sleng.m3u8?enc=gYBdhxfoGMUhPB0mfADaXg&uid=&exp=1619193620
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rri.png" group-title="Lokal", RRI NET
+https://cdn11jtedge.useetv.com/joss/130/rrinet/chunklist_w509490104_b1004100_sleng.m3u8?enc=GjIMhyQIZPuAu-B3FoRiXA&uid=&exp=1619193621
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="Lokal", Trans TV
+https://cdn11jtedge.useetv.com/joss/133/transtv/chunklist_w1854203701_b1344100_sleng.m3u8?enc=F0StrNN2RtrT-GgnePL3xA&uid=&exp=1619193622
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", Indosiar
+https://cdn11jtedge.useetv.com/joss/133/bumperslate/chunklist_w136815892_b894100_sleng_kamiselaluada.m3u8?enc=79zksLmJEEnq6PKpsYdN1g&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1619193615
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", SCTV
+https://cdn11jtedge.useetv.com/joss/133/bumperslate/chunklist_w136815892_b894100_sleng_kamiselaluada.m3u8?enc=IvIxdeNbJNhB0QYLh2LpuA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1619195600
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antara.png" group-title="Lokal", Antara
+https://cdn11jtedge.useetv.com/joss/130/antara/chunklist_w467437146_b1004100_sleng.m3u8?enc=34E6i_fP6hdiw-as8Nw2iQ&uid=&exp=1619193622
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/balitv.png" group-title="Lokal", Bali TV
+https://cdn11jtedge.useetv.com/joss/134/balitv/chunklist_w245721926_b1004100_sleng.m3u8?enc=3IoPCbEUn89yhyjBJYDwNg&uid=&exp=1619193622
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="Lokal", Berita Satu
+https://cdn11jtedge.useetv.com/joss/130/beritasatu/chunklist_w38580657_b1004100_sleng.m3u8?enc=CyfM1RfPqu8fN0yzy1x9JQ&uid=&exp=1619193623
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="Lokal", Jak TV
+https://cdn11jtedge.useetv.com/joss/134/jaktv/chunklist_w85865463_b1004100_sleng.m3u8?enc=zqeUNt1SJW77XVZoeB5aPw&uid=&exp=1619193623
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="Lokal", JTV
+https://cdn11jtedge.useetv.com/joss/134/jtv/chunklist_w1708717186_b1004100_sleng.m3u8?enc=hwxjef0Tg6OQ2MlVPjXQ4A&uid=&exp=1619195607
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvedukasi.png" group-title="Lokal", TV Edukasi
+https://cdn11jtedge.useetv.com/joss/134/tvedukasi/chunklist_w20893200_b1004100_sleng.m3u8?enc=0SGwes9axOvrkJqxMtAkfQ&uid=&exp=1619193624
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="Lokal", Daai TV
+https://cdn11jtedge.useetv.com/joss/134/daaitv/chunklist_w431583984_b1004100_sleng.m3u8?enc=gXmMSpS4WlJz8PPY5qbtEg&uid=&exp=1619193624
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ntv.png" group-title="Lokal", NusantaraTV
+https://cdn11jtedge.useetv.com/joss/194/nusantaratv/chunklist_w1820741958_b894100_sleng.m3u8?enc=FvTB6ZHZFynsMdR2Whv2YQ&uid=&exp=1619195608
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="Lokal", iNews
+https://cdn11jtedge.useetv.com/joss/134/inews/chunklist_w154867829_b1004100_sleng.m3u8?enc=otajfGBqGJ9If4iK71BKug&uid=&exp=1619195609
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mncnews.png" group-title="Lokal", MNC NEWS
+https://cdn11jtedge.useetv.com/joss/134/mncnews/chunklist_w1359186499_b1004100_sleng.m3u8?enc=bhyYsAxsZZRFTueLbcEk0Q&uid=&exp=1619193625
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/seatoday.png" group-title="News", SEA TODAY
+https://cdn11jtedge.useetv.com/joss/133/seatoday/chunklist_w1814034597_b1344100_sleng.m3u8?enc=OAEwwzqPhgzT_OENAVYUKA&uid=&exp=1619193626
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="News", Metro TV
+https://cdn11jtedge.useetv.com/joss/133/metrotv/chunklist_w1277358609_b1344100_sleng.m3u8?enc=vv-XLw2j46Lb4NmPqjtfBQ&uid=&exp=1619193626
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/idx.png" group-title="News", IDX
+https://cdn11jtedge.useetv.com/joss/134/idx/chunklist_w1630458502_b1004100_sleng.m3u8?enc=iLi-BkFnKO1IVVsTq8yaMw&uid=&exp=1619193626
+#EXTINF:-1 tvg-id="ksa.dw" tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="News", DW (English)
+https://cdn11jtedge.useetv.com/joss/134/dwtv/chunklist_w1789209503_b1004100_sleng.m3u8?enc=10xCmn2MmpC_gB1tjfdncA&uid=&exp=1619193628
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/france24.png" group-title="News", France 24
+https://cdn11jtedge.useetv.com/joss/134/france24/chunklist_w1046639988_b1004100_sleng.m3u8?enc=c_HLqzI1JBVF9CtaL8Ovpw&uid=&exp=1619195612
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/euronews.png" group-title="News", EuroNews
+https://cdn11jtedge.useetv.com/joss/134/euronews/chunklist_w125494785_b1004100_sleng.m3u8?enc=I7I-DnOlz5So_ZzBkdwD9w&uid=&exp=1619193629
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trt.png" group-title="News", TRT World
+https://cdn11jtedge.useetv.com/joss/14/trtworld/chunklist_w93575722_b894100_sleng.m3u8?enc=AK1HyLXKcFjYJRwXKkk4xQ&uid=&exp=1619195613
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/prambors.png" group-title="Music", Prambors
+https://cdn11jtedge.useetv.com/joss/130/pramborstv/chunklist_w106474680_b1004100_sleng.m3u8?enc=YEhIjMLUSafxuB1J-XKNYA&uid=&exp=1619193629
+#EXTINF:-1 tvg-id="mykids" tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="Kids", M Kidz
+https://cdn11jtedge.useetv.com/joss/134/bumpergangguan/chunklist_w876973726_b894100_sleng.m3u8?enc=OleH4z72gVBql986_kMnGw&uid=&exp=1619193630
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cgtndoc.png" group-title="Knowledge", CGTN Documentary
+https://cdn11jtedge.useetv.com/joss/134/cgtndocumentary/chunklist_w1725368696_b1004100_sleng.m3u8?enc=TR4is6cc8p5Y4N1whWrmxg&uid=&exp=1619195614
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indishoping.png" group-title="Lifestyle", Indihome Shopping
+https://cdn11jtedge.useetv.com/joss/130/indishopping/chunklist_w858395673_b1004100_sleng.m3u8?enc=l_8CF_A-zq6o42VZKAXOFw&uid=&exp=1619193630
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mshop.png" group-title="Lifestyle", M Shop
+https://cdn11jtedge.useetv.com/joss/14/mncshop/chunklist_w1837833933_b684100_sleng.m3u8?enc=35D7esZ9R0duNWzPG-pqAg&uid=&exp=1619193631
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="Entertainment", Arirang
+https://cdn11jtedge.useetv.com/joss/134/arirang/chunklist_w63490977_b1004100_sleng.m3u8?enc=4kQgh5WlaAkjw5EXPqoY7A&uid=&exp=1619195615
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/abcaustralia.png" group-title="Entertainment", ABC Australia
+https://cdn11jtedge.useetv.com/joss/133/abcaustralia/chunklist_w736871158_b684100_sleng.m3u8?enc=xqgmBq7iiLYpNLOrjY5dWA&uid=&exp=1619195615
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/chinesedrama.png" group-title="Entertainment", Chinese Drama
+https://cdn11jtedge.useetv.com/joss/14/chinesedrama/chunklist_w1167814037_b684100_sleng.m3u8?enc=8vEyyJm0n4M1Ym9LrSiaRA&uid=&exp=1619193633
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cctv4.png" group-title="Entertainment", CCTV4
+https://cdn11jtedge.useetv.com/joss/134/cctv4/chunklist_w2048303427_b1004100_sleng.m3u8?enc=UZ8xHy5oPFL4uLqQFQh9BA&uid=&exp=1619193632
+#EXTINF:-1 tvg-id="ksa.nhkworld" tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="Entertainment", NHK World Japan
+https://cdn11jtedge.useetv.com/joss/130/nhkworld/chunklist_w625586593_b1004100_sleng.m3u8?enc=4_OuVpYtJrXuE2sUFRFl_g&uid=&exp=1619193633
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/outdoor.png" group-title="Entertainment", Outdoor Channel
+https://cdn11jtedge.useetv.com/joss/14/bumpergangguan/chunklist_w1946369453_b894100_sleng.m3u8?enc=YOsijVeSvc032QtTw0-I0w&uid=&exp=1619193633
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/eljohn.png" group-title="Entertainment", El John TV
+https://cdn11jtedge.useetv.com/joss/14/bumpergangguan/chunklist_w1946369453_b894100_sleng.m3u8?enc=k6G3S4YNh7yns9xbbCDSYA&uid=&exp=1619193634
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rodjatv.png" group-title="Religi", Rodja TV
+https://cdn11jtedge.useetv.com/joss/130/rodjatv/chunklist_w12448452_b1004100_sleng.m3u8?enc=-3haluWYDBRrULXPtdSKYQ&uid=&exp=1619193637
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tawaf.png" group-title="Religi", TawafTV
+https://cdn11jtedge.useetv.com/joss/130/tawaftv/chunklist_w1190052838_b1004100_sleng.m3u8?enc=94IoJwQyq1A3tH6p1U-JYQ&uid=&exp=1619193635
+#EXTINF:-1 tvg-id="mtatv" tvg-logo="http://kamiselaluada.com/img/mta.png" group-title="Religi", MTA TV
+https://cdn11jtedge.useetv.com/joss/130/mtatv/chunklist_w2129446803_b1004100_sleng.m3u8?enc=VFsmsnWv7nuVEQFd4gtNMg&uid=&exp=1619195620
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mui.png" group-title="Religi", MUI TV
+https://cdn11jtedge.useetv.com/joss/130/muitv/chunklist_w1601222923_b1004100_sleng.m3u8?enc=7JpgQS4m1hpBGFPQuAvFJQ&uid=&exp=1619193634
+#EXTINF:-1 tvg-id="ksa.alqurantv" tvg-logo="http://kamiselaluada.com/img/mekkah.png" group-title="Religi", AL Quran AL Kareem
+https://cdn11jtedge.useetv.com/joss/130/alquran/chunklist_w492105270_b1004100_sleng.m3u8?enc=urSWDVj01DYo60hFrbuJTA&uid=&exp=1619193635
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mqtv.png" group-title="Religi", MQTV
+https://cdn11jtedge.useetv.com/joss/130/mqtv/chunklist_w1761871893_b894100_sleng.m3u8?enc=aCmLMAK7-eP5TGoabIafYw&uid=&exp=1619193636
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tv9nu.png" group-title="Religi", TV9 NU
+https://cdn11jtedge.useetv.com/joss/130/tv9/chunklist_w863410048_b1004100_sleng.m3u8?enc=JzySRj78hDhQXQIOw_Jizg&uid=&exp=1619195618
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvmu.png" group-title="Religi", Muhammadiyah TV
+https://cdn11jtedge.useetv.com/joss/130/muhammadiyahtv/chunklist_w997057006_b1004100_sleng.m3u8?enc=Ib4Dt-tli7y4ALaYFNGtCw&uid=&exp=1619193636
+
+
+
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ls1.png" group-title="Lokal",Live Streaming 1
+http://rr3.dens.tv/s/s100/live.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ls2.png" group-title="Lokal",Live Streaming 2
+http://210.210.155.35/session/6b5c7076-2ec7-11eb-9219-c81f66f89318/uq2663/h/h998/live.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Lokal",METRO TV
+http://210.210.155.35:80/session/ee7383c6-2ece-11eb-a769-b82a72d63267/uq2663/h/h12/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="Lokal",TVONE
+http://210.210.155.35:80/session/46b1ce9e-2ecf-11eb-a83f-b82a72d63267/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal",SCTV
+http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal",INDOSIAR
+http://210.210.155.35:80/session/91daacce-2ecf-11eb-8016-b82a72d63267/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="Lokal",TRANS TV
+http://210.210.155.35:80/session/c6016ff6-2ecf-11eb-9242-b82a72d63267/x6bnqe/s/s252/01.m3u8
+#EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal",TRANS 7
+http://210.210.155.35:80/session/de667460-2ecf-11eb-81ff-b82a72d63267/qwr9ew/s/s101/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="Lokal",ANTV
+http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/denslifestyle.png" group-title="Lokal",DENS Lifestyle
+http://210.210.155.35:80/session/c688c904-2ed6-11eb-9c1c-c81f66f89318/uq2663/h/h28/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/denslearning.png" group-title="Lokal",DENS Learning Knowlegde
+http://210.210.155.35:80/session/e1e5a064-2ed6-11eb-a769-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/densshowbiz.png" group-title="Lokal",DENS Showbiz
+http://210.210.155.35:80/session/25b72b82-2ed7-11eb-8e17-b82a72d63267/x6bnqe/s/s35/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal",NET.
+http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal",KOMPAS TV
+http://210.210.155.35:80/session/7ed45662-2ed8-11eb-9063-b82a72d63267/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/elshinta.png" group-title="Lokal",Elshinta TV
+http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI
+http://210.210.155.35:80/session/8468fbd6-2ed9-11eb-81ff-b82a72d63267/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 tvg-id="rtv" tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal",RTV
+http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rodjatv.png" group-title="Lokal",RODJA TV
+http://210.210.155.35:80/session/c8a56596-2ed9-11eb-a769-b82a72d63267/qwr9ew/s/s14/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="Lokal",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="Lokal",DAAI TV
+http://210.210.155.35:80/session/07b13610-2edb-11eb-ae09-c81f66f89318/qwr9ew/s/s13/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="Lokal",Mytv
+http://210.210.155.35:80/session/5fa1cb6e-2edb-11eb-9063-b82a72d63267/qwr9ew/s/s46/01.m3u8
+#EXTINF:-1 tvg-id="tvrisports" tvg-logo="http://kamiselaluada.com/img/tvrisports.png" group-title="Lokal",TVRI SPORTS
+http://210.210.155.35:80/session/8161a31e-2edb-11eb-901e-b82a72d63267/qwr9ew/s/s107/01.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="http://kamiselaluada.com/img/mola.png", Mola Sports Free
+https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="http://kamiselaluada.com/img/densplay.png", Dens Play
+http://210.210.155.35:80/session/10f5c51e-2edc-11eb-aa6b-b82a72d63267/x6bnqe/s/s101/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cna.png" group-title="International Channel", CNA
+http://210.210.155.35:80/session/ee573acc-2edd-11eb-a769-b82a72d63267/uq2663/h/h29/01.m3u8
+#EXTINF:-1 tvg-id="nhkworld" tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="International Channel",NHK WORLD
+http://210.210.155.35:80/session/1010caf2-2ede-11eb-9da2-b82a72d63267/uq2663/h/h23/01.m3u8
+#EXTINF:-1 tvg-id="aljazeera" tvg-logo="http://kamiselaluada.com/img/aljazeera.png" group-title="International Channel",AL JAZEERA English
+http://210.210.155.35:80/session/c461c448-2ede-11eb-9da2-b82a72d63267/qwr9ew/s/s17/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trt.png" group-title="International Channel",TRT WORLD
+http://210.210.155.35:80/session/db3a3876-2ede-11eb-a8d2-c81f66f89318/uq2663/h/h156/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/uatv.png" group-title="International Channel",UA
+http://210.210.155.35:80/session/fea67eb4-2ede-11eb-aa6b-b82a72d63267/uq2663/h/h101/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aljazeera.png" group-title="International Channel",AL JAZEERA Arabic
+http://210.210.155.35:80/session/15ebf4f0-2edf-11eb-9063-b82a72d63267/qwr9ew/s/s16/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cctv4.png"group-title="International Channel", CCTV4
+http://210.210.155.35:80/session/2f9c2f96-2edf-11eb-9071-b82a72d63267/qwr9ew/s/s19/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/france24.png"group-title="International Channel", FRANCE 24
+http://210.210.155.35:80/session/497a1e3c-2edf-11eb-a245-b82a72d63267/qwr9ew/s/s22/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tv5monde.png" group-title="International Channel",TV5MONDE
+http://210.210.155.35:80/session/c6731b1a-2ef2-11eb-94e7-b82a72d63267/qwr9ew/s/s24/01.m3u8
+#EXTINF:-1 tvg-id="dwtv" tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="International Channel",DW TV ASIA
+http://210.210.155.35:80/session/eb5612b6-2ef2-11eb-9468-c81f66f89318/qwr9ew/s/s26/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tbn.png" group-title="International Channel",TBN
+http://210.210.155.35:80/session/fed35ccc-2ef2-11eb-a7a0-c81f66f89318/qwr9ew/s/s39/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cgtndoc.png" group-title="International Channel",CGTN DOCUMENTARY
+http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8 
+#EXTINF:-1 tvg-id="ksa.cgtndoc" tvg-logo="http://kamiselaluada.com/img/cgtndoc.png" group-title="International Channel",CGTN DOCUMENTARY 2
+http://210.210.155.35:80/session/6e87599c-2ef3-11eb-b6b9-b82a72d63267/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1  tvg-id="ksa.alqurantv" tvg-logo="http://kamiselaluada.com/img/mekkah.png" group-title="International Channel",Al Quran Al Kareem TV
+http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/madinah.png" group-title="International Channel",AL Sunnah Nabawi TV
+http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-1 tvg-id="egg" tvg-logo="http://kamiselaluada.com/img/egg.png" group-title="Premium Channel", eGG TV
+http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/fightsport.png" group-title="Premium Channel", Fight Sports
+http://210.210.155.35/session/5e4c2166-2efd-11eb-9da2-b82a72d63267/uq2663/h/h05/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/animax.png" group-title="Premium Channel", Animax
+http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aniplus.png" group-title="Premium Channel", Aniplus
+http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-id="mykids" tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="Premium Channel", MKIDZ
+http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/axn.png" group-title="Premium Channel", AXN
+http://rr.dens.tv/h/h141/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Premium Channel", Kix
+http://rr.dens.tv/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/hits.png" group-title="Premium Channel", HITS
+http://rr.dens.tv/h/h37/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/blueantentertainment.png" group-title="Premium Channel", Blue Ant 
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/blueantextreme.png" group-title="Premium Channel", Blue Ant Extreme
+http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
+#EXTINF:-1 tvg-id="kplus" tvg-logo="http://kamiselaluada.com/img/kplus.png" group-title="Premium Channel", K+ 
+http://210.210.155.35/session/7079735e-3130-11eb-9468-c81f66f89318/uq2663/h/h08/01.m3u8
+#EXTINF:-1 tvg-id="sgem" tvg-logo="http://kamiselaluada.com/img/gem.png" group-title="Premium Channel", Sony GEM TV 
+http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
+#EXTINF:-1 tvg-id="sone" tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="Premium Channel", Sony One 
+http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
+#EXTINF:-1 tvg-id="cinemaworld" tvg-logo="http://kamiselaluada.com/img/cmw.png" group-title="Premium Channel", Cenima World
+http://rr.dens.tv/h/h04/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cm.png" group-title="Premium Channel", Celestial Movies
+http://rr2.dens.tv/s/s33/01.m3u8
+#EXTINF:-1 tvg-id="Zee" tvg-id="zbioskop" tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="Premium Channel", ZEE Bioskop
+http://rr2.dens.tv/s/s32/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/thrill.png" group-title="Premium Channel", Thrill
+http://rr2.dens.tv/s/s34/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mycn.png" group-title="Premium Channel", MyCinema
+http://rr.dens.tv/h/h90/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/style.png" group-title="Premium Channel", TV5MONDE Style
+http://210.210.155.35/session/06daabf6-3131-11eb-a245-b82a72d63267/uq2663/h/h01/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bloomberg.png" group-title="Premium Channel", Bloomberg
+http://210.210.155.35/session/cafb2556-3131-11eb-8209-c81f66f89318/uq2663/h/h03/01.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports1.png" group-title="Sports", Fox Sport 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports2.png" group-title="Sports", Fox Sport 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports3.png" group-title="Sports", Fox Sport 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt1.png" group-title="Sports", BT SPORTS 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt2.png" group-title="Sports", BT SPORTS 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true1.png" group-title="Sports", True Premier 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true2.png" group-title="Sports", True Premier 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true3.png" group-title="Sports", True Premier 3
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true4.png" group-title="Sports", True Premier 4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true5.png" group-title="Sports", True Premier 5
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/truesports.png" group-title="Sports", TrueSport 1
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/truesports2.png" group-title="Sports", TrueSport 2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/truesports3.png" group-title="Sports", TrueSport 3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/truesports4.png" group-title="Sports", TrueSport 4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/truesports4.png" group-title="Sports", TrueSport 4 (2)
+http://36.37.252.114:888/Apple/OneTV-034/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/truesports5.png" group-title="Sports", TrueSport 5
+https://www.livedoomovies.com/02_2sporthd5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv1.png" group-title="Sports", SPORT TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv2.png" group-title="Sports", SPORT TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv3.png" group-title="Sports", SPORT TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv4.png" group-title="Sports", SPORT TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv5.png" group-title="Sports", SPORT TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dubaisports1.png" group-title="Sports", DUBAI SPORTS 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dubaisports2.png" group-title="Sports", DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dubaisports3.png" group-title="Sports", DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/adsports1.png" group-title="Sports", ABU DHABI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/adsports2.png" group-title="Sports", ABU DHABI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/adsports3.png" group-title="Sports", ABU DHABI SPORTS 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/adsports4.png" group-title="Sports", ABU DHABI SPORTS 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="racing.com" tvg-logo="http://kamiselaluada.com/img/racingcom.png" group-title="Sports",RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 tvg-id="nbatv"  tvg-logo="http://kamiselaluada.com/img/nba.png" group-title="Sports",NBA
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tennis.png" group-title="Sports",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-id="redbulltv" tvg-logo="http://kamiselaluada.com/img/redbulltv.png" group-title="Sports", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mekkah.png" group-title="Religi",Al Quran Al Kareem
+https://cllive.itworkscdn.net/ksaquranlive/token=nva=1619197218~dirs=1~hash=008f128b90cc9382f133e/ksaquran.smil/ksaquran_chunks.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/madinah.png" group-title="Religi",AL Sunnah Nabawi
+https://cllive.itworkscdn.net/ksasunnalive/token=nva=1619197216~dirs=1~hash=001ab4d7dac21fcb2c4bb/ksasunna.smil/ksasunna_chunks.m3u8
+#EXTINF:-1 tvg-id="ksa.alqurantv" group-title="Religi" tvg-logo="http://kamiselaluada.com/img/mekkah.png", Al Quran Al Kareem 2
+http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
+#EXTINF:-1 tvg-id="ksa.alqurantv" group-title="Religi" tvg-logo="http://kamiselaluada.com/img/mekkah.png", Al Quran Al Kareem 3
+http://185.105.4.106:1935/live/Bahrain%20Quran/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rodjatv.png" group-title="Religi",RODJA TV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/ahsantv.png", AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/surautv.png", Surau TV
+http://119.235.249.58:1935/surautv/live/playlist.m3u8
+#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/alimantv.png", AL-ImanTV
+https://tv.rodja.live/aliman/HD/playlist.m3u8
+#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/mgitv.png", MGI TV
+https://tv.rodja.live/tasik/mgitv/index.m3u8
+#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/muadztv.png", muadzTV
+http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_123.m3u8
+#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/izzahtv.png",IZZAH TV
+https://streaming.sigraduta.co.id/izzahtv.m3u8
+#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/izzahtv.png",IZZAH TV 2
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/wesaltv.png", Wesaltv
+http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
+#EXTINF:-1 group-title="Religi" tvg-logo="http://kamiselaluada.com/img/salamtv.png", Salam TV
+http://wowza60.indostreamserver.com:1935/salamtv/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/skynews.png" group-title="News",SKYNEWS
+http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/france24.png" group-title="News",FRANCE 24
+http://36.37.252.114:888/Apple/OneTV-049/playlist.m3u8
+#EXTINF:-1 tvg-id="dwtv" tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="News",DW English
+http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8
+#EXTINF:-1 tvg-id="russiatoday" tvg-logo="http://kamiselaluada.com/img/rt.png" group-title="News",RUSSIA TODAY
+http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8
+#EXTINF:-1 tvg-id="nhkworld" tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="News" , NHK World
+https://b-nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459-b/nhkwlive-ojp/index_4M.m3u8
+#EXTINF:-1 tvg-id="ksa.nhkworld" tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="News" , NHK World EN
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_2M.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aljazeera.png" group-title="News", Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="ksa.aljazeeraenglish" tvg-logo="http://kamiselaluada.com/img/aljazeera.png" group-title="News", Al Jazeera English 2
+http://36.37.252.114:888/Apple/OneTV-048/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cgtn.png" group-title="News", CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="ksa.cgtn" tvg-logo="http://kamiselaluada.com/img/cgtn.png" group-title="News", CGTN 2
+http://36.37.252.114:888/Apple/OneTV-062/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bloomberg.png" group-title="News", Bloomberg
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trt.png" group-title="News",TRT World
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+
+
+#EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/hbo.png", HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/hbosig.png", HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/hbohits.png", HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/hbofamily.png", HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/cinemax.png", CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 tvg-id="redbyhbo" group-title="Movies" tvg-logo="http://kamiselaluada.com/img/redhbo.png", RED by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/flix.png", &Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/prive.png", &Prive
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/fox.png",FOX (VN)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8 
+#EXTINF:-1 tvg-id="foxlife" group-title="Movies" tvg-logo="http://kamiselaluada.com/img/foxlife.png",FOX LIFE (VN)
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="foxmovies" group-title="Movies" tvg-logo="http://kamiselaluada.com/img/foxmovies.png",FOX Movies (VN)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="foxfamilymovies" group-title="Movies" tvg-logo="http://kamiselaluada.com/img/foxfamilymovies.png",FOX FAMILY Movies (VN)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="mtatv" tvg-logo="http://kamiselaluada.com/img/mta.png" group-title="MAXSTREAM", MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+#EXTINF:-1 tvg-id="rodjatv" tvg-logo="http://kamiselaluada.com/img/rodjatv.png" group-title="MAXSTREAM",RODJA TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="MAXSTREAM",MYTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mcc.png" group-title="MAXSTREAM",MCC
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/manifest.mpd
+#EXTINF:-1 tvg-id="useeprime" tvg-logo="http://kamiselaluada.com/img/useeprime.png" group-title="MAXSTREAM", UseePrime
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+#EXTINF:-1 tvg-id="useeinfo" tvg-logo="http://kamiselaluada.com/img/ruangterampil.png" group-title="MAXSTREAM", Ruang Trampil
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
+#EXTINF:-1 tvg-id="jaktv" tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="MAXSTREAM",JAK TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
+#EXTINF:-1 tvg-id="jtv" tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="MAXSTREAM", JTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/maxstreammusic.png" group-title="MAXSTREAM",MAXSTREAM Music
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/digione.png" group-title="MAXSTREAM",DIGIONE MAXSTREAM
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="MAXSTREAM",Magna TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/hiindo.png" group-title="MAXSTREAM",Hi Indo
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
+#EXTINF:-1 tvg-id="rtv" tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="MAXSTREAM",RTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/channel4u.png" group-title="MAXSTREAM",Channel 4U
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tic.png" group-title="MAXSTREAM",The Indonesia Channel
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
+#EXTINF:-1 tvg-id="useephoto" tvg-logo="http://kamiselaluada.com/img/useephoto.png" group-title="MAXSTREAM", Usee Photo
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
+#EXTINF:-1 tvg-id="balitv" tvg-logo="http://kamiselaluada.com/img/balitv.png" group-title="MAXSTREAM", Bali TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/duniagames.png" group-title="MAXSTREAM",Dunia Games TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
+#EXTINF:-1 tvg-id="tvedukasi" tvg-logo="http://kamiselaluada.com/img/tvedukasi.png" group-title="MAXSTREAM",TV Edukasi
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
+#EXTINF:-1 tvg-id="metrotv" tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="MAXSTREAM",METRO TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/seatoday.png" group-title="MAXSTREAM", SEA TODAY
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+#EXTINF:-1 tvg-id="kompastv" tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="MAXSTREAM",KOMPAS TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+
+
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://kamiselaluada.com/img/tv1.png", TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://kamiselaluada.com/img/tv2.png", TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://kamiselaluada.com/img/rtmokey.png", OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://kamiselaluada.com/img/bes.png",Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://kamiselaluada.com/img/rtmsports.png", RTM Sports
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://kamiselaluada.com/img/rtbsuk.png", RTB SUKMAINDERA
+https://rtb-channel.glue.live/smil:rtb1/chunklist_w1343761972_b2736000_sleng.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://kamiselaluada.com/img/awani.png", Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://kamiselaluada.com/img/naura.png",Naura
+https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://kamiselaluada.com/img/hello.png",Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 1-2
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_201020_ikatan_cinta_eps_1_2/_/sa_hls/rctiplus_201020_ikatan_cinta_eps_1_2-avc1_1373000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 3
+https://vcdn1.rctiplus.id/vod/eds/rev_ikatan_cinta_e03/_/sa_hls/rev_ikatan_cinta_e03-avc1_1263000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 4-5
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_221020_ikatan_cinta_eps_04_05/_/sa_hls/rctiplus_221020_ikatan_cinta_eps_04_05-avc1_1335000=2-mp4a_128409_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 6
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_231020_ikatan_cinta_eps_06/_/sa_hls/rctiplus_231020_ikatan_cinta_eps_06-avc1_1344000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 7-8
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_e07_08/_/sa_hls/ikatan_cinta_e07_08-avc1_1349000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 9
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_251020_ikatan_cinta_eps_9/_/sa_hls/rctiplus_251020_ikatan_cinta_eps_9-avc1_1264000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 10
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_261020_ikatan_cinta_eps_10/_/sa_hls/rctiplus_261020_ikatan_cinta_eps_10-avc1_1367000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 11
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_271020_ikatan_cinta_11_12/_/sa_hls/rctiplus_271020_ikatan_cinta_11_12-avc1_1166000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 12-13
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_eps12/_/sa_hls/ikatan_cinta_eps12-avc1_1345000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 14
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_e14/_/sa_hls/ikatan_cinta_e14-avc1_1144000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 15-16
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_e15_16/_/sa_hls/ikatan_cinta_e15_16-avc1_1161000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 17
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_311020_ikatan_cinta_eps_17/_/sa_hls/rctiplus_311020_ikatan_cinta_eps_17-avc1_1399000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 18
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_eps_18/_/sa_hls/ikatan_cinta_eps_18-avc1_1273000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 19
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_eps_18/_/sa_hls/ikatan_cinta_eps_18-avc1_1273000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 20-21
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_031120_ikatan_cinta_eps_20_21/_/sa_hls/rctiplus_031120_ikatan_cinta_eps_20_21-avc1_1553000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 22
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_e22/_/sa_hls/ikatan_cinta_e22-avc1_1254000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 23-24
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_051120_ikatan_cinta_eps_23_24/_/sa_hls/rctiplus_051120_ikatan_cinta_eps_23_24-avc1_1289000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 25
+https://vcdn1.rctiplus.id/vod/eds/061120_ic_eps_25/_/sa_hls/061120_ic_eps_25-avc1_1237000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 26-27
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_071120_ikatan_cinta_eps_26_27/_/sa_hls/rctiplus_071120_ikatan_cinta_eps_26_27-avc1_1174000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 28
+https://vcdn1.rctiplus.id/vod/eds/101120_ic_eps_28_rev3/_/sa_hls/101120_ic_eps_28_rev3-avc1_1084000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 29
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_091120_ikatan_cinta_eps_29/_/sa_hls/rctiplus_091120_ikatan_cinta_eps_29-avc1_1504000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 30-31
+https://vcdn1.rctiplus.id/vod/eds/101120_ic_eps_30_31/_/sa_hls/101120_ic_eps_30_31-avc1_1269000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 32
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_e32/_/sa_hls/ikatan_cinta_e32-avc1_1279000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 33-34
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_121120_ikatan_cinta_eps_33_34/_/sa_hls/rctiplus_121120_ikatan_cinta_eps_33_34-avc1_1220000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 35
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_131120_ikatan_cinta_eps_35/_/sa_hls/rctiplus_131120_ikatan_cinta_eps_35-avc1_1299000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 36-37
+https://vcdn1.rctiplus.id/vod/eds/141120_ic_eps_36_37/_/sa_hls/141120_ic_eps_36_37-avc1_1170000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 38
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_151120_ic_eps_38/_/sa_hls/rctiplus_151120_ic_eps_38-avc1_1361000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 39
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_161120_ikatan_cinta_eps_39/_/sa_hls/rctiplus_161120_ikatan_cinta_eps_39-avc1_1238000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 40-41
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_171120_ikatan_cinta_eps_40_41/_/sa_hls/rctiplus_171120_ikatan_cinta_eps_40_41-avc1_1410000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 42
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_181120_ikatan_cinta_eps_42/_/sa_hls/rctiplus_181120_ikatan_cinta_eps_42-avc1_1251000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 43-44
+https://vcdn1.rctiplus.id/vod/eds/08_ikatan_cinta_e43_44/_/sa_hls/08_ikatan_cinta_e43_44-avc1_1229000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 45
+https://vcdn1.rctiplus.id/vod/eds/201120_ic_ep_45/_/sa_hls/201120_ic_ep_45-avc1_1234000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 46-47
+https://vcdn1.rctiplus.id/vod/eds/2111_revikatancinta/_/sa_hls/2111_revikatancinta-avc1_1250000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 48
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_221120_ikatan_cinta_eps_48/_/sa_hls/rctiplus_221120_ikatan_cinta_eps_48-avc1_1193000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 49
+https://vcdn1.rctiplus.id/vod/eds/231120_ic_ep_49/_/sa_hls/231120_ic_ep_49-avc1_1161000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 50
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_241120_ikatan_cinta_50/_/sa_hls/rctiplus_241120_ikatan_cinta_50-avc1_1009000=2-mp4a_128406_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 51-52
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_251120_ikatancinta_51_52/_/sa_hls/rctiplus_251120_ikatancinta_51_52-avc1_1174000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 53
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_261120_ikatan_cinta_eps_53_comp/_/sa_hls/rctiplus_261120_ikatan_cinta_eps_53_comp-avc1_1520000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 54-55
+https://vcdn1.rctiplus.id/vod/eds/2711_ikatancinta_54_55/_/sa_hls/2711_ikatancinta_54_55-avc1_1189000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 56
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_281120_ikatan_cinta_eps_56/_/sa_hls/rctiplus_281120_ikatan_cinta_eps_56-avc1_1580000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 57
+https://vcdn1.rctiplus.id/vod/eds/291120_ikatan_cinta_eps_57/_/sa_hls/291120_ikatan_cinta_eps_57-avc1_1115000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 58-59
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_e58_59/_/sa_hls/ikatan_cinta_e58_59-avc1_1206000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 60
+https://vcdn1.rctiplus.id/vod/eds/011220_ikatan_cinta_eps_60/_/sa_hls/011220_ikatan_cinta_eps_60-avc1_1092000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 61
+https://vcdn1.rctiplus.id/vod/eds/021220_ic_ep_61/_/sa_hls/021220_ic_ep_61-avc1_1085000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 62-63
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_031220_ikatan_cinta_eps_62_63/_/sa_hls/rctiplus_031220_ikatan_cinta_eps_62_63-avc1_1082000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 64
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_041220_ikatan_cinta_eps_64_comp/_/sa_hls/rctiplus_041220_ikatan_cinta_eps_64_comp-avc1_1322000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 65
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_051220_ikatan_cinta_eps_65/_/sa_hls/rctiplus_051220_ikatan_cinta_eps_65-avc1_1166000=2-mp4a_128417_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 66
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_e66/_/sa_hls/ikatan_cinta_e66-avc1_1117000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 67
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_071220_ikatan_cinta_eps_67/_/sa_hls/rctiplus_071220_ikatan_cinta_eps_67-avc1_1339000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 68-69
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_e68_69/_/sa_hls/ikatan_cinta_e68_69-avc1_1078000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 70
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_091220_ic_eps_70/_/sa_hls/rctiplus_091220_ic_eps_70-avc1_1289000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 71-72
+https://vcdn1.rctiplus.id/vod/eds/101220_ic_ep_71_72/_/sa_hls/101220_ic_ep_71_72-avc1_1257000=2-mp4a_128410_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 73
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_111220_ikatan_cinta_73/_/sa_hls/rctiplus_111220_ikatan_cinta_73-avc1_1150000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 74
+https://vcdn1.rctiplus.id/vod/eds/121220_ic_74/_/sa_hls/121220_ic_74-avc1_1325000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 75-76
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_131220_ic_eps_75_76_comp/_/sa_hls/rctiplus_131220_ic_eps_75_76_comp-avc1_1495000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 77
+https://abcdn.akamaized.net/vod/eds/rctiplus_131220_ikatan_cinta_eps_77/_/sa_hls/rctiplus_131220_ikatan_cinta_eps_77-avc1_1191000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 78-79
+https://abcdn.akamaized.net/vod/eds/rctiplus_151220_ikatan_cinta_eps_78_79_comp/_/sa_hls/rctiplus_151220_ikatan_cinta_eps_78_79_comp-avc1_1514000=2-mp4a_128425_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 80
+https://abcdn.akamaized.net/vod/eds/rctiplus_161220_ikatan_cinta_eps_80_comp/_/sa_hls/rctiplus_161220_ikatan_cinta_eps_80_comp-avc1_1494000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 81-82
+https://abcdn.akamaized.net/vod/eds/08_ikatan_cinta_e81_82/_/sa_hls/08_ikatan_cinta_e81_82-avc1_1016000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 83
+https://abcdn.akamaized.net/vod/eds/181220_ic_83/_/sa_hls/181220_ic_83-avc1_1199000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 84
+https://abcdn.akamaized.net/vod/eds/ikatan_cinta_e84/_/sa_hls/ikatan_cinta_e84-avc1_1204000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 85
+https://abcdn.akamaized.net/vod/eds/rctiplus_201220_ikatan_cinta_85/_/sa_hls/rctiplus_201220_ikatan_cinta_85-avc1_1053000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 86-87
+https://abcdn.akamaized.net/vod/eds/211220_ic_86_87/_/sa_hls/211220_ic_86_87-avc1_1429000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 88
+https://abcdn.akamaized.net/vod/eds/rctiplus_221220_ikatan_cinta_88/_/sa_hls/rctiplus_221220_ikatan_cinta_88-avc1_1295000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 89-90
+https://abcdn.akamaized.net/vod/eds/rctiplus_231220_ikatan_cinta_eps_89_90_comp/_/sa_hls/rctiplus_231220_ikatan_cinta_eps_89_90_comp-avc1_1376000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 91
+https://abcdn.akamaized.net/vod/eds/241220_ic_91/_/sa_hls/241220_ic_91-avc1_2000000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 92
+https://abcdn.akamaized.net/vod/eds/ikatan_cinta_e92/_/sa_hls/ikatan_cinta_e92-avc1_1434000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 93-94
+https://abcdn.akamaized.net/vod/eds/rctiplus_261220_ic_eps_93_94/_/sa_hls/rctiplus_261220_ic_eps_93_94-avc1_1432000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 95
+https://abcdn.akamaized.net/vod/eds/271220_ic_95/_/sa_hls/271220_ic_95-avc1_1397000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 96
+https://abcdn.akamaized.net/vod/eds/ikatan_cinta_e96/_/sa_hls/ikatan_cinta_e96-avc1_1358000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 97-98
+https://abcdn.akamaized.net/vod/eds/rctiplus_291220_ikatan_cinta_eps_97_98/_/sa_hls/rctiplus_291220_ikatan_cinta_eps_97_98-avc1_1452000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 99
+https://abcdn.akamaized.net/vod/eds/301220_ic_99/_/sa_hls/301220_ic_99-avc1_1214000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 100
+https://abcdn.akamaized.net/vod/eds/rctiplus_311220_ikatan_cinta_100/_/sa_hls/rctiplus_311220_ikatan_cinta_100-avc1_1270000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 101-102-103
+https://abcdn.akamaized.net/vod/eds/010121_ic_101_102/_/sa_hls/010121_ic_101_102-avc1_1199000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 104
+https://abcdn.akamaized.net/vod/eds/rctiplus_020121_ikatan_cinta_104/_/sa_hls/rctiplus_020121_ikatan_cinta_104-avc1_1238000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 105
+https://abcdn.akamaized.net/vod/eds/ikatan_cinta_e105/_/sa_hls/ikatan_cinta_e105-avc1_1154000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 106-107
+https://abcdn.akamaized.net/vod/eds/030121_ic_106_107/_/sa_hls/030121_ic_106_107-avc1_1161000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 108
+https://abcdn.akamaized.net/vod/eds/050121_ic_108/_/sa_hls/050121_ic_108-avc1_1295000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 109-110
+https://abcdn.akamaized.net/vod/eds/ikatan_cinta_e109_110/_/sa_hls/ikatan_cinta_e109_110-avc1_1098000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 111
+https://abcdn.akamaized.net/vod/eds/070121_ic_111/_/sa_hls/070121_ic_111-avc1_1306000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 112-113
+https://abcdn.akamaized.net/vod/eds/080121_ikatan_cinta_112_113/_/sa_hls/080121_ikatan_cinta_112_113-avc1_1206000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 114
+https://abcdn.akamaized.net/vod/eds/090121_ic_114/_/sa_hls/090121_ic_114-avc1_1232000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 115
+https://abcdn.akamaized.net/vod/eds/rctiplus_100121_ikatan_cinta_eps_115/_/sa_hls/rctiplus_100121_ikatan_cinta_eps_115-avc1_1367000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 116-117
+https://abcdn.akamaized.net/vod/eds/ikatan_cinta_e116_117/_/sa_hls/ikatan_cinta_e116_117-avc1_1113000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 118-119
+https://abcdn.akamaized.net/vod/eds/ikatan_cinta_e118_119/_/sa_hls/ikatan_cinta_e118_119-avc1_1304000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 120
+https://abcdn.akamaized.net/vod/eds/rctiplus_130121_ikatan_cinta_eps_120/_/sa_hls/rctiplus_130121_ikatan_cinta_eps_120-avc1_1339000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 121
+https://abcdn.akamaized.net/vod/eds/rctiplus_140121_ikatan_cinta_eps_121/_/sa_hls/rctiplus_140121_ikatan_cinta_eps_121-avc1_1242000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 122-123
+https://abcdn.akamaized.net/vod/eds/150121_ic_122_123/_/sa_hls/150121_ic_122_123-avc1_1212000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 124
+https://abcdn.akamaized.net/vod/eds/ikatan_cinta_e124/_/sa_hls/ikatan_cinta_e124-avc1_1186000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 125
+https://abcdn.akamaized.net/vod/eds/170121_ikatan_cinta_125/_/sa_hls/170121_ikatan_cinta_125-avc1_1336000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 126
+https://abcdn.akamaized.net/vod/eds/rctiplus_180121_ikatan_cinta_eps_126/_/sa_hls/rctiplus_180121_ikatan_cinta_eps_126-avc1_1290000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 127-128
+https://abcdn.akamaized.net/vod/eds/rctiplus_190121_ikatan_cinta_eps_127_128/_/sa_hls/rctiplus_190121_ikatan_cinta_eps_127_128-avc1_1309000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 129
+https://abcdn.akamaized.net/vod/eds/210121_ikatan_cinta_129/_/sa_hls/210121_ikatan_cinta_129-avc1_1200000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 130-131
+https://abcdn.akamaized.net/vod/eds/210121_ikatan_cinta_130_131/_/sa_hls/210121_ikatan_cinta_130_131-avc1_1240000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 132
+https://abcdn.akamaized.net/vod/eds/ikatan_cinta_e132/_/sa_hls/ikatan_cinta_e132-avc1_1150000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 133-134
+https://abcdn.akamaized.net/vod/eds/rctiplus_230121_ikatan_cinta_eps_133_134/_/sa_hls/rctiplus_230121_ikatan_cinta_eps_133_134-avc1_1280000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 135
+https://abcdn.akamaized.net/vod/eds/240121_ic_135/_/sa_hls/240121_ic_135-avc1_1029000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 136-137
+https://vcdn1.rctiplus.id/vod/eds/250121_ikatan_cinta_136_137/_/sa_hls/250121_ikatan_cinta_136_137-avc1_1159000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 138
+https://vcdn1.rctiplus.id/vod/eds/260121_ikatan_cinta_138/_/sa_hls/260121_ikatan_cinta_138-avc1_1207000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 139-140
+https://abcdn.akamaized.net/vod/eds/270121_ic_139_140/_/sa_hls/270121_ic_139_140-avc1_1077000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 141
+https://abcdn.akamaized.net/vod/eds/280121_ic_141/_/sa_hls/280121_ic_141-avc1_1245000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 142-143
+https://abcdn.akamaized.net/vod/eds/rctiplus_290121_ic_eps_142_143/_/sa_hls/rctiplus_290121_ic_eps_142_143-avc1_1250000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 144
+https://abcdn.akamaized.net/vod/eds/300121_ikatan_cinta_144/_/sa_hls/300121_ikatan_cinta_144-avc1_1218000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 145
+https://abcdn.akamaized.net/vod/eds/ikatan_cinta_e145/_/sa_hls/ikatan_cinta_e145-avc1_1317000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 146-147
+https://vcdn.rctiplus.id/vod/eds/010221_ic_146_147/_/sa_hls/010221_ic_146_147-avc1_1180000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 148
+https://vcdn.rctiplus.id/vod/eds/020221_ic_148/_/sa_hls/020221_ic_148-avc1_1162000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 149
+https://vcdn.rctiplus.id/vod/eds/ikatan_cinta_e149/_/sa_hls/ikatan_cinta_e149-avc1_1158000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 150-151
+https://vcdn.rctiplus.id/vod/eds/ikatan_cinta_e150_151/_/sa_hls/ikatan_cinta_e150_151-avc1_1125000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 152
+https://vcdn.rctiplus.id/vod/eds/050221_ikatan_cinta_152/_/sa_hls/050221_ikatan_cinta_152-avc1_1136000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 153-154
+https://vcdn.rctiplus.id/vod/eds/060221_ic_153_154/_/sa_hls/060221_ic_153_154-avc1_1269000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 155
+https://vcdn.rctiplus.id/vod/eds/rctiplus_070221_ikatan_cinta_eps_155_comp/_/sa_hls/rctiplus_070221_ikatan_cinta_eps_155_comp-avc1_1581000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 156
+https://vcdn.rctiplus.id/vod/eds/080221_ikatan_cinta_156/_/sa_hls/080221_ikatan_cinta_156-avc1_1074000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 157-158
+https://vcdn.rctiplus.id/vod/eds/090221_ikatan_cinta_157_158/_/sa_hls/090221_ikatan_cinta_157_158-avc1_1247000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 159
+https://abcdn.akamaized.net/vod/eds/rctiplus_100221_ikatan_cinta_eps_159/_/sa_hls/rctiplus_100221_ikatan_cinta_eps_159-avc1_1454000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 160
+https://abcdn.akamaized.net/vod/eds/rctiplus_110221_ikatan_cinta_eps_160/_/sa_hls/rctiplus_110221_ikatan_cinta_eps_160-avc1_1328000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 161-162
+https://abcdn.akamaized.net/vod/eds/rctiplus_110221_ic_eps_161_162/_/sa_hls/rctiplus_110221_ic_eps_161_162-avc1_1293000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 163
+https://abcdn.akamaized.net/vod/eds/ikatan_cinta_e163/_/sa_hls/ikatan_cinta_e163-avc1_1220000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 164
+https://abcdn.akamaized.net/vod/eds/140221_ikatan_cinta_164/_/sa_hls/140221_ikatan_cinta_164-avc1_1519000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 165-166
+https://abcdn.akamaized.net/vod/eds/150221_ic_165_166/_/sa_hls/150221_ic_165_166-avc1_1116000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 167
+https://abcdn.akamaized.net/vod/eds/160221_ic_167/_/sa_hls/160221_ic_167-avc1_1215000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 168-169
+https://abcdn.akamaized.net/vod/eds/170221_ikatan_cinta_168_169/_/sa_hls/170221_ikatan_cinta_168_169-avc1_1165000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 170
+https://abcdn.akamaized.net/vod/eds/180221_ikatan_cinta_170/_/sa_hls/180221_ikatan_cinta_170-avc1_1233000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 171
+https://abcdn.akamaized.net/vod/eds/rctiplus_190221_ic_eps_171/_/sa_hls/rctiplus_190221_ic_eps_171-avc1_1372000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 172-173
+https://abcdn.akamaized.net/vod/eds/rctiplus_200221_ic_eps_172_173/_/sa_hls/rctiplus_200221_ic_eps_172_173-avc1_1441000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 174
+https://abcdn.akamaized.net/vod/eds/210221_ic_174/_/sa_hls/210221_ic_174-avc1_1370000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 175
+https://abcdn.akamaized.net/vod/eds/ikatan_cinta_e175/_/sa_hls/ikatan_cinta_e175-avc1_1414000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 176-177
+https://abcdn.akamaized.net/vod/eds/ikatan_cinta_e176_177/_/sa_hls/ikatan_cinta_e176_177-avc1_1149000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 178
+https://abcdn.akamaized.net/vod/eds/240221_ikatan_cinta_178/_/sa_hls/240221_ikatan_cinta_178-avc1_1217000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 179
+https://abcdn.akamaized.net/vod/eds/250221_ic_179/_/sa_hls/250221_ic_179-avc1_1312000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 180-181
+https://abcdn.akamaized.net/vod/eds/260221_ic_180_181/_/sa_hls/260221_ic_180_181-avc1_1397000=2-mp4a_121234_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 182
+https://abcdn.akamaized.net/vod/eds/270221_ikatan_cinta_182/_/sa_hls/270221_ikatan_cinta_182-avc1_1165000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 183
+https://abcdn.akamaized.net/vod/eds/ikatan_cinta_e183/_/sa_hls/ikatan_cinta_e183-avc1_1069000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 184
+https://abcdn.akamaized.net/vod/eds/rctiplus_010321_ikatan_cinta_eps_184/_/sa_hls/rctiplus_010321_ikatan_cinta_eps_184-avc1_1371000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 185-186
+https://abcdn.akamaized.net/vod/eds/rctiplus_020321_ikatan_cinta_eps_185_186/_/sa_hls/rctiplus_020321_ikatan_cinta_eps_185_186-avc1_1294000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 187
+https://abcdn.akamaized.net/vod/eds/ikatan_cinta_e187/_/sa_hls/ikatan_cinta_e187-avc1_1089000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta - Eps. 188
+https://abcdn.akamaized.net/vod/eds/ic_e188/_/sa_hls/ic_e188-avc1_1131000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 189 - Andin Menghilang Al Khawatir
+https://abcdn.akamaized.net/vod/eds/050321_ic_189/_/sa_hls/050321_ic_189-avc1_1341000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-id="IKATAN CINTA"tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 190 - Keputusan Besar Nino
+https://abcdn.akamaized.net/vod/eds/060321_ic_190/_/sa_hls/060321_ic_190-avc1_1414000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 191 - Andin Jatuh Ke Jurang Dan Belum Ditemukan
+https://abcdn.akamaized.net/vod/eds/rctiplus_070321_ikatan_cinta_eps_191/_/sa_hls/rctiplus_070321_ikatan_cinta_eps_191-avc1_1503000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 192 - 193 - Yes! Andin Berhasil Di Temukan
+https://vcdn.rctiplus.id/vod/eds/080321_ikatan_cinta_192_193/_/sa_hls/080321_ikatan_cinta_192_193-avc1_1482000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 194 - Perhatian Al Meluluhkan Hati Andin
+https://vcdn.rctiplus.id/vod/eds/090321_ikatan_cinta_194/_/sa_hls/090321_ikatan_cinta_194-avc1_1214000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 195 - Kacau Tante Sarah Jadi Tegang Bertemu Angga Dan Michelle
+https://vcdn.rctiplus.id/vod/eds/rctiplus_100321_ikatan_cinta_eps_195/_/sa_hls/rctiplus_100321_ikatan_cinta_eps_195-avc1_1381000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 196 - 197 - Nino Masih Ingin Membuktikan Siapa Ayahnya Reyna
+https://abcdn.akamaized.net/vod/eds/110321_ikatan_cinta_196_197/_/sa_hls/110321_ikatan_cinta_196_197-avc1_1198000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 198 - Waduh Al Nampar Andin!
+https://abcdn.akamaized.net/vod/eds/ic_e198/_/sa_hls/ic_e198-avc1_1224000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 199 - Al Bucin Ke Andin
+https://abcdn.akamaized.net/vod/eds/ic_e199/_/sa_hls/ic_e199-avc1_1232000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 200 - Terkuak Hasil Test DNA Nino dan Reyna!
+https://abcdn.akamaized.net/vod/eds/140321_ikatan_cinta_200/_/sa_hls/140321_ikatan_cinta_200-avc1_1291000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 201 - 202 - Ramuan Tokcer aladin On The Way!!!
+https://abcdn.akamaized.net/vod/eds/150321_ic_201_202/_/sa_hls/150321_ic_201_202-avc1_1201000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 203 - Semua Bohong Tante Rossa Merasa Dikhianati
+https://abcdn.akamaized.net/vod/eds/160321_ic_203_rev/_/sa_hls/160321_ic_203_rev-avc1_1162000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 204 - Andin Ingin Al Bisa Belajar Memasak
+https://abcdn.akamaized.net/vod/eds/170321_ikatan_cinta_204/_/sa_hls/170321_ikatan_cinta_204-avc1_1154000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 205-206 - Serunya Al dan Andin Liburan
+https://abcdn.akamaized.net/vod/eds/180321_ikatan_cinta_205_206/_/sa_hls/180321_ikatan_cinta_205_206-avc1_1444000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 207 - Al Masih Menelurusi Pak Sumarno
+https://abcdn.akamaized.net/vod/eds/190321_ikatan_cinta_207_rev/_/sa_hls/190321_ikatan_cinta_207_rev-avc1_1212000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 208 - Elsa Yang Tidak Berhenti Mencari
+https://abcdn.akamaized.net/vod/eds/rctiplus_200321_ic_eps_208/_/sa_hls/rctiplus_200321_ic_eps_208-avc1_1346000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 209 - Ibu Rosa Akhirnya Tau Yang Sebenarnya!
+https://abcdn.akamaized.net/vod/eds/210321_ic_209/_/sa_hls/210321_ic_209-avc1_1358000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 210-211 - Kekecewaan Terbesar Ibu Rosa
+https://abcdn.akamaized.net/vod/eds/ic_210_211/_/sa_hls/ic_210_211-avc1_1121000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 212 - Ketulusan Cinta Aldebaran dan Andin
+https://abcdn.akamaized.net/vod/eds/ic_e212/_/sa_hls/ic_e212-avc1_1029000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 213 - Mama Rosa Hancur!
+https://abcdn.akamaized.net/vod/eds/240321_ic_213/_/sa_hls/240321_ic_213-avc1_1049000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 214 - 215 - Kondisi Bu Rosa Semakin Mengkhawatirkan
+https://abcdn.akamaized.net/vod/eds/250321_ic_214_215/_/sa_hls/250321_ic_214_215-avc1_1214000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", Ikatan Cinta Eps. 216
+https://abcdn.akamaized.net/vod/eds/260321_ikatan_cinta_216/_/sa_hls/260321_ikatan_cinta_216-avc1_1142000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikatancinta.png" group-title="VOD", 
